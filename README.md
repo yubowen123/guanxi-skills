@@ -86,6 +86,10 @@ $guanxi-gonglueshi
 $guanxi-gonglueshi 帮我分析一下这段聊天，她是不是对我有意思，我下一句该怎么回？
 ```
 
+## 宣传海报
+
+![关系攻略师小红书风格海报](assets/guanxi-skills-poster.png)
+
 ## 参考资料范围
 
 本 Skill 的知识框架参考了一组本地整理的关系沟通、恋爱、相亲、约会、长期关系、成人约会和两性心理资料，原始资料形态主要为 PDF、EPUB 和 TXT。下图展示的是本次梳理时纳入视野的资料范围：
