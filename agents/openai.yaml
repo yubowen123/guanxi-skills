@@ -1,0 +1,7 @@
+interface:
+  display_name: "关系攻略师"
+  short_description: "面向成人聊天、恋爱、约会与长期关系的中文策略教练"
+  default_prompt: "Use $guanxi-gonglueshi to analyze my relationship situation and suggest the next message."
+
+policy:
+  allow_implicit_invocation: true
